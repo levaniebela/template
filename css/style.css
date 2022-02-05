@@ -50,3 +50,35 @@
 	padding:15px;
 
 }
+/*boxebis sheketeba*/
+.article-box{
+	background-color: #707070;
+	border-color: #222222;
+	color: white;
+	width: 436px;
+	height: 320px;
+	padding: 15px;
+	position: relative;
+	bottom: 147px;
+}
+.article-box1{
+	background-color: #EEEEEE;
+	border-color: #707070;
+	width: 454px;
+	height: 320px;
+	padding: 15px;
+	position: relative;
+	bottom: 116px;
+	right: 4px;
+}
+.article-box2{
+	background-color: #E41C26;
+	border-color: #707070;
+	width:450px;
+	height: 320px;
+	color: white;
+	padding: 15px;
+	position: relative;
+	bottom: 3px;
+	right: 8px;
+}
