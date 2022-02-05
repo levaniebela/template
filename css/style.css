@@ -1,0 +1,52 @@
+.color-bg{
+	background-color: red;
+}
+/*logos monacemebi*/
+.logo1{
+	display: inline-block;
+	width: 217;
+	height: 79x;
+	background-color: red;
+	padding: 10px
+}
+/*suratis monacemebi*/
+.picture1{
+	height: 520px: ;
+	width: 1340px
+}
+/*navigaciis monacemebi*/
+.nav-li{
+	color: blue;
+}
+.active{
+	color: red
+}
+/*contactebis monacemebi*/
+.contact-title{
+	text-align: center
+}
+.contact-ul{
+	text-align: center
+}
+.contact-foother{
+	text-align: center
+}
+/*logogsa da navigaciis gverdigverd dawyoba*/
+
+.d-inline-block{
+	display: inline-block;
+}
+.same-line{
+	vertical-align: top;
+}
+.left{
+	margin-left:15px;
+}
+/*navigaciis ukana fonis zomebi*/
+.navigation{
+	background-color: black;
+	width:1099px;
+	height:50px;
+	padding:15px;
+
+}
