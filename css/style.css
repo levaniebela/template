@@ -12,9 +12,9 @@
 /*suratis monacemebi*/
 .picture1{
 	height: 520px: ;
-	width: 1340px;
+	width: 1341px;
 	position: relative;
-	bottom: 3px;
+	bottom: 77px;
 
 }
 /*navigaciis monacemebi*/
@@ -159,3 +159,57 @@
 .hide2{
 	margin-top: 10px;
 }
+/*end*/
+/*foother navigaciaze*/
+.simp{
+	position: relative;
+	bottom: 175px;
+	left: 1235px;
+}
+/*end*/ 
+.empty{
+	display: inline-block;
+	color: red;
+	background-color: blue;
+	width:1104px;
+	margin-left: 237px;
+	position: relative;
+	bottom: 53px;
+	height: 50px;
+}
+/*icone facebookis atana*/
+.onblack{
+	position: relative;
+	bottom: 55px;
+	left: 52px;
+}
+/*end*/
+/*atana suratis */
+.atana{
+	position: relative ;
+	bottom: 104px;
+}
+.atana2{
+	position: relative;
+	bottom: 178px;
+}
+/*end*/
+/*emptyze olympiuri warwera
+*/
+.citius{
+	position: relative;
+	left: 650px;
+	bottom: 40px;
+	text-transform: uppercase;
+}
+.shua{
+	margin-left: 575px;
+	margin-bottom: 8px;
+}
+.shua2{
+	position: relative;
+	bottom: 74px;
+	left: 89px;
+	margin-left: 770px;
+}
+/*end*/
