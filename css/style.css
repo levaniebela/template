@@ -12,7 +12,10 @@
 /*suratis monacemebi*/
 .picture1{
 	height: 520px: ;
-	width: 1340px
+	width: 1340px;
+	position: relative;
+	bottom: 3px;
+
 }
 /*navigaciis monacemebi*/
 .nav-li{
@@ -23,7 +26,9 @@
 }
 /*contactebis monacemebi*/
 .contact-title{
-	text-align: center
+	text-align: center;
+	margin-top: 15px;
+
 }
 .contact-ul{
 	text-align: center
@@ -45,7 +50,7 @@
 /*navigaciis ukana fonis zomebi*/
 .navigation{
 	background-color: black;
-	width:1099px;
+	width:1104px;
 	height:50px;
 	padding:15px;
 
@@ -56,29 +61,101 @@
 	border-color: #222222;
 	color: white;
 	width: 436px;
-	height: 320px;
+	height: 360px;
 	padding: 15px;
 	position: relative;
-	bottom: 147px;
+	bottom: 54px;
 }
 .article-box1{
 	background-color: #EEEEEE;
 	border-color: #707070;
 	width: 454px;
-	height: 320px;
+	height: 360px;
 	padding: 15px;
 	position: relative;
-	bottom: 116px;
+	bottom: 7px;
 	right: 4px;
 }
 .article-box2{
 	background-color: #E41C26;
 	border-color: #707070;
 	width:450px;
-	height: 320px;
+	height: 360px;
 	color: white;
 	padding: 15px;
 	position: relative;
-	bottom: 3px;
+	bottom: 6px;
 	right: 8px;
+}
+/*boxebshi dashoorebebi */
+.size{
+	font-size: 20px;
+	margin: 15px;
+	text-align: center;
+	margin-bottom: 15px;
+}
+.size2{
+	text-align: center;
+	margin-bottom: 15px;
+}
+/*boxis logoebis gasworeba*/
+.lo{
+	padding-left: 160px;
+}
+.lon{
+	padding-left: 180px;
+}
+.long{
+	padding-left: 185px;
+}
+/*contactis ruka*/
+.map{
+	margin-left: 430px;
+	margin-top: 15px;
+}
+.color-cn{
+	background-color: #EEEEEE;
+}
+/*menius position*/
+.navigation{
+	position: relative;
+	right: 4px;
+}
+/*navigaciebis yvela gverdze gasworeba*/
+.navigationcontact{
+	display: inline-block;
+	background-color: black;
+	width:100%;
+	height:50px;
+	padding:15px;
+	position: relative;
+	right: 4px;
+}
+.navigationp{
+	display: inline-block;
+	background-color: black;
+	width:1124px;
+	height:50px;
+	padding:15px;
+	position: relative;
+	right: 4px;
+}
+.navigationch{
+	display: inline-block;
+	background-color: black;
+	width:1124px;
+	height:50px;
+	padding:15px;
+	position: relative;
+	right: 4px;
+}
+/*contactebis dashoreba marjinit */
+.contact-ul{
+	margin-top: 10px;
+}
+.hide1{
+	margin-top: 10px;
+}
+.hide2{
+	margin-top: 10px;
 }
